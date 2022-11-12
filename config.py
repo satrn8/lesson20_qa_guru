@@ -1,6 +1,3 @@
-"""
-Class for work with config
-"""
 import os
 import pydantic
 from appium.options.android import UiAutomator2Options
